@@ -1,4 +1,4 @@
-package HomeWork;
+package SeminarTwo.HomeWork;
 
 import java.io.FileNotFoundException;
 

@@ -1,4 +1,4 @@
-package HomeWork;
+package SeminarTwo.HomeWork;
 
 public class TaskTwo {
 //    try {
